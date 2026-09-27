@@ -58,7 +58,7 @@
 ### Установка
 
 ```bash
-git clone https://github.com/ТВОЙ_НИК/prismatica.git
+git clone https://github.com/Web0f/prismatica.git
 cd prismatica
 python prismatica.py
 ```
