@@ -67,20 +67,6 @@ python prismatica.py
 
 ---
 
-## 🖼️ Скриншоты
-
-> *Вставь сюда скриншоты из разных тем и режимов. Пример:*
-
-| Rainbow | Neon |
-|---|---|
-| ![](screenshots/rainbow.png) | ![](screenshots/neon.png) |
-
-| Scientific | Programmer |
-|---|---|
-| ![](screenshots/sci.png) | ![](screenshots/prog.png) |
-
----
-
 ## ⌨️ Горячие клавиши
 
 | Клавиша | Действие |
